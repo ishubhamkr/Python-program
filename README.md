@@ -1,7 +1,7 @@
 # Python-program
-Collection of Python Programs. 
+Collection of Python Programs. Apart from solutions of HacerEarth it also has solutions of some miscellenous python programs
 
-# Solution of HackerEarth Python
+# Python program solutions of HackerEarth
 
 ## Input and Output
 - [Jadoo and DNA Transcription](https://github.com/ishubhamkr/Python-program/blob/main/Jadoo%20and%20DNA%20Transcription.py)
