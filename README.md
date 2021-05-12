@@ -1,6 +1,11 @@
 # Python-program
 Collection of Python Programs. Apart from solutions of HacerEarth it also has solutions of some miscellenous python programs
-
+<td align="center" width="96">
+      <a>
+        <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/py.svg" width="40"/>
+      </a>
+      <br>Python
+    </td>
 # Python program solutions of HackerEarth
 
 ## Input and Output
