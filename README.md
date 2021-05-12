@@ -4,7 +4,6 @@ Collection of Python Programs. Apart from solutions of HacerEarth it also has so
       <a>
         <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/py.svg" width="40"/>
       </a>
-      <br>Python</br>
 </td>
     
 # Python program solutions of HackerEarth
