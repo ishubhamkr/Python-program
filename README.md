@@ -1,5 +1,5 @@
 # Python-program
-Collection of Python Programs. Apart from solutions of HacerEarth it also has solutions of some miscellenous python programs
+Collection of Python Programs.
 <td align="center" width="96">
       <a>
         <img src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/py.svg" width="40"/>
